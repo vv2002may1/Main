@@ -21,7 +21,7 @@ int main()
             }
         }
         if(y==0)
-        break;
+//         break;
     }
     for(int i=0;i<n;i++)
     cout<<a[i]<<" ";
